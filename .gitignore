@@ -4,3 +4,22 @@ data/raw/
 logs/
 __pycache__/
 *.pyc
+
+# Airflow
+airflow/logs/
+airflow/.env
+airflow/plugins/
+airflow/config/
+airflow/dags/__pycache__/
+
+# Kafka
+kafka/kafka-data/
+
+# Misc scratch files from this session
+bb_sheet_inventory.txt
+inspect_bb.py
+inspect_ib.py
+inspect_ib_gaps.py
+check_triggerer.sh
+requirements.txt~
+add_mount.py
