@@ -23,3 +23,7 @@ inspect_ib_gaps.py
 check_triggerer.sh
 requirements.txt~
 add_mount.py
+
+# Test scripts
+test_ws.py
+test_db.py
