@@ -27,3 +27,8 @@ add_mount.py
 # Test scripts
 test_ws.py
 test_db.py
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
